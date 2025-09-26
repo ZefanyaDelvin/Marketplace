@@ -116,16 +116,6 @@ npm install --save-dev gh-pages
 }
 ```
 
-3. Deploy:
-
-```bash
-npm run deploy
-```
-
-Your app will be available at `https://your-username.github.io/your-project/`.
-
----
-
 ## Folder Structure
 
 ```

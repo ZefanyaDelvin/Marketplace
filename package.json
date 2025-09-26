@@ -2,7 +2,6 @@
   "name": "marketplace",
   "private": true,
   "version": "0.0.0",
-  "type": "module",
   "homepage": "http://ZefanyaDelvin.github.io/Marketplace/",
   "scripts": {
     "dev": "vite",

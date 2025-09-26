@@ -1,3 +1,6 @@
+# Project Deployment
+This project is deploy in vercel in here(https://marketplace-eta-smoky.vercel.app/)
+
 # React Vite Project
 
 A React project scaffolded with [Vite](https://vitejs.dev/), including instructions for setup, running, and deployment.
